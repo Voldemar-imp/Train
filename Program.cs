@@ -126,7 +126,6 @@ namespace Train
                 case '2':
                     _arhive.ShowticketsList();
                     break;
-
                 default:
                     Console.WriteLine("Неверно выбрана команда. Для продолжения нажмите любую клавишу...");
                     break;
