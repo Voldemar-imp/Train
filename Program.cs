@@ -132,6 +132,7 @@ namespace Train
                     break;
             }
         }
+        
         public void ShowInfo()
         {
             Console.Clear();
